@@ -12,7 +12,7 @@ if(!$user->loggedIn()) {
 }
 include('inc/header4.php');
 ?>
-<title>phpzag.com : Demo Library Management System with PHP & MySQL</title>
+<title>Library Management System</title>
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" />
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" />
 <link rel="stylesheet" href="css/dashboard.css" />
